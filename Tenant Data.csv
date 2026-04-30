@@ -1,0 +1,16 @@
+tenant_id,tenant_name,industry,credit_rating,annual_revenue_m,num_locations,hq_state
+11,Midwest Bowling Centers,Entertainment,B+,18.9,8,IL
+2,Sunrise Diner Group,Restaurant,BB,78.3,34,FL
+6,Summit Car Wash,Car Wash,BB,29.6,12,CA
+9,Keystone Physical Therapy,Healthcare,BB,31.4,14,OH
+14,Cornerstone Veterinary,Veterinary,BB,24.8,11,TX
+1,Heartland Fitness,Fitness & Wellness,BB+,42.5,18,TX
+3,Atlas Auto Centers,Auto Services,BB+,55.1,22,MI
+8,Blue Ridge Storage,Storage,BB+,22.1,9,VA
+10,Greenleaf Garden Centers,Retail,BB+,44.7,19,NC
+13,Falcon Manufacturing,Manufacturing,BB+,195.6,7,OH
+15,National Tire Warehouse,Auto Services,BB+,88.2,38,GA
+7,Ironwood Steakhouse,Restaurant,BB-,38.2,16,TX
+5,ProMed Urgent Care,Healthcare,BBB,112.4,41,PA
+4,Crestview Early Learning,Education,BBB-,61.8,28,AZ
+12,Pacific Dental Partners,Healthcare,BBB-,67.3,25,CA

@@ -1,0 +1,11 @@
+tenant_name,industry,credit_rating,Total_ABR,WACR,Expiring_in_3yr,Total_Locations
+ProMed Urgent Care,Healthcare,BBB,1115000.0,0.067960626561833368,0,3
+Crestview Early Learning,Education,BBB-,1224000.0,0.072242046863011278,1,4
+Atlas Auto Centers,Auto Services,BB+,1148000.0,0.084577506815000369,1,4
+Heartland Fitness,Fitness & Wellness,BB+,986000.0,0.080089642567018685,1,4
+Summit Car Wash,Car Wash,BB,803000.0,0.081250328847515943,1,3
+Falcon Manufacturing,Manufacturing,BB+,803000.0,0.077479930528753377,1,2
+Greenleaf Garden Centers,Retail,BB+,733000.0,0.082099283234404755,2,3
+Ironwood Steakhouse,Restaurant,BB-,835000.0,0.077385588507877662,3,3
+National Tire Warehouse,Auto Services,BB+,1567000.0,0.084342016037888171,4,5
+Sunrise Diner Group,Restaurant,BB,1391000.0,0.075570920252064314,4,5
